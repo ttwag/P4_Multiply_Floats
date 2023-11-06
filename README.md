@@ -5,9 +5,6 @@ The float_mult.S contains a RISC-V program that multiplies two bfloat16 floating
 
 ![Figure2](./images/Figure2.png)
 
-I mostly followed the algorithm from page 221 of [this book](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture-dp-0128203315/dp/0128203315/ref=dp_ob_title_bk):
-![Figure3](./images/Figure3.png)
-
 ## Skills Involved
 * RISC-V Assembly Programming
 * C Programming
@@ -16,6 +13,10 @@ I mostly followed the algorithm from page 221 of [this book](https://www.amazon.
 ## Development Environment
 This is part of a lab in the course, [EEC170](https://ece.ucdavis.edu/course-catalog), from UC Davis.
 The program is written in RISC_V assembly language with the help of the [RISC-V Venus Simulator](https://marketplace.visualstudio.com/items?itemName=hm.riscv-venus) in Visual Studio Code.
+
+## Algorithm
+I mostly followed the algorithm from page 221 of [this book](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture-dp-0128203315/dp/0128203315/ref=dp_ob_title_bk):
+![Figure3](./images/Figure3.png)
 
 ## Code Description
 There's a C version of the same program, and I will reference the variable names from the main.c.
