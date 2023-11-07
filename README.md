@@ -16,7 +16,8 @@ The program is written in RISC_V assembly language with the help of the [RISC-V 
 
 ## Algorithm
 I mostly followed the algorithm from page 221 of [this book](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture-dp-0128203315/dp/0128203315/ref=dp_ob_title_bk):
-![Figure3](./images/Figure3.png)
+
+<img src="./images/Figure3.png" alt="error while loading the image" height="750">
 
 ## Code Description
 There's a C version of the same program, and I will reference the variable names from the main.c.
