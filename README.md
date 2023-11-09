@@ -52,7 +52,7 @@ There's a C version of the same program, and I will reference the variable names
 
 ## What I Could Do Better?
 * There's no need to use while loops to clear the trailing zeros after the decimal point. I could've directly multiply the two mantissas after adding the invisible bit. Their product will always be 15 to 16 bits, and I could start from there to retrieve the 7 bits of mantissas I need.
-* I coded the the more efficient version in main1.cpp in the C Version folder.
+* I coded the the more efficient version in main1.cpp in the C_Version folder.
 
 ## Helpful Links
 Use [float.exposed](https://float.exposed/b0x4020) to quickly convert binary floating point to decimal floating point and vice versa.
