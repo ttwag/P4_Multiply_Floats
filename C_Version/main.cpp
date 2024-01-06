@@ -1,5 +1,5 @@
 #include <iostream>
-
+// Version 1 of floating point multiplication
 int main() {
     // X and Y to be multiplied, ans is their product.
     int16_t x = 0xC0A0;
